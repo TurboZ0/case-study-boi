@@ -1,0 +1,19 @@
+#logo {
+    width: 200px;
+    height:200px;
+}
+body {
+    background-color: aqua;
+}
+
+#test_image {
+    height: 300px;
+    width: 380px;
+}
+span {
+    font-size: 20px;
+}
+#result {
+    font-size: 20px;
+    color: salmon;
+}
